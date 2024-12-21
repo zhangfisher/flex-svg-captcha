@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "lint": "xo"
+    "lint": "xo",
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
@@ -36,6 +37,9 @@
   "devDependencies": {
     "jest": "^21.1.0",
     "jest-environment-node-debug": "^2.0.0",
+    "vite": "^6.0.5",
+    "vite-plugin-raw": "^1.0.3",
+    "vite-raw-plugin": "^1.0.2",
     "xo": "^0.18.2"
   },
   "xo": {
