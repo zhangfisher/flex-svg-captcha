@@ -32,11 +32,23 @@
   },
   "homepage": "https://github.com/steambap/svg-captcha#readme",
   "dependencies": {
+    "@babel/runtime-corejs3": "^7.26.0",
     "opentype.js": "^0.7.3"
   },
   "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/plugin-transform-runtime": "^7.25.9",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/runtime": "^7.26.0",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.0",
     "jest": "^21.1.0",
     "jest-environment-node-debug": "^2.0.0",
+    "rollup": "^4.29.1",
+    "rollup-plugin-clear": "^2.0.7",
+    "rollup-plugin-terser": "^7.0.2",
+    "tsup": "^8.3.5",
     "vite": "^6.0.5",
     "vite-plugin-raw": "^1.0.3",
     "vite-raw-plugin": "^1.0.2",
