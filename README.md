@@ -1,4 +1,4 @@
-# svg-captcha
+# svg-captcha-embed
 
 generate svg captcha in node.js
 
