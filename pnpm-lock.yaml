@@ -54,9 +54,6 @@ importers:
       rollup-plugin-clear:
         specifier: ^2.0.7
         version: 2.0.7
-      rollup-plugin-import-data-uri:
-        specifier: ^1.0.2
-        version: 1.0.2
       unplugin-embed:
         specifier: ^0.0.3
         version: 0.0.3(esbuild@0.24.0)(rollup@4.29.1)(vite@6.0.5(@types/node@22.10.2)(terser@5.37.0))
@@ -3462,9 +3459,6 @@ packages:
 
   rollup-plugin-clear@2.0.7:
     resolution: {integrity: sha512-Hg8NC3JcJBO1ofgyQC0IACpyKn/yhHPGZ3C7R3ubNGWUXy9JXHQrewk4J4hVcZznw6SOKayLsaNae596Rwt8Vg==}
-
-  rollup-plugin-import-data-uri@1.0.2:
-    resolution: {integrity: sha512-YK8wvd4tITnjxEVGoxBmimvIdPg4DXQFsd6n8UygrLAvdSIRmdS5P1LyglZlON74CbBZJdCx9KHuiNR5p/miXA==}
 
   rollup@4.29.1:
     resolution: {integrity: sha512-RaJ45M/kmJUzSWDs1Nnd5DdV4eerC98idtUOVr6FfKcgxqvjwHmxc5upLF9qZU9EpsVzzhleFahrT3shLuJzIw==}
@@ -8164,10 +8158,6 @@ snapshots:
   rollup-plugin-clear@2.0.7:
     dependencies:
       rimraf: 2.7.1
-
-  rollup-plugin-import-data-uri@1.0.2:
-    dependencies:
-      mime-types: 2.1.35
 
   rollup@4.29.1:
     dependencies:

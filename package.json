@@ -48,7 +48,6 @@
     "jest-environment-node-debug": "^2.0.0",
     "rollup": "^4.29.1",
     "rollup-plugin-clear": "^2.0.7",
-    "rollup-plugin-import-data-uri": "^1.0.2",
     "unplugin-embed": "^0.0.3",
     "xo": "^0.18.2"
   },

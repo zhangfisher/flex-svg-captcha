@@ -1,4 +1,3 @@
-
 import clear from 'rollup-plugin-clear'
 import { babel } from '@rollup/plugin-babel';
 import commonjs from '@rollup/plugin-commonjs';
