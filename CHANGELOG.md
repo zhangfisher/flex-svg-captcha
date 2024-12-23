@@ -1,5 +1,11 @@
 # svg-captcha-embed
 
+## 1.4.2
+
+### Patch Changes
+
+- 52be944: fix
+
 ## 1.4.1
 
 ### Patch Changes
