@@ -8,9 +8,9 @@ module.exports = {
           "modules": false,
           "corejs":{
             "version":"3.21",
-            "proposals": true 
-          } 
-        }   
+            "proposals": true
+          }
+        }
       ]
     ],
     "plugins": [
@@ -18,7 +18,7 @@ module.exports = {
         "@babel/plugin-transform-runtime",
         {
           "corejs":3,
-          "proposals": true 
+          "proposals": true
         }
       ]
     ]
