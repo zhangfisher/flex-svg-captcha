@@ -2,10 +2,12 @@
   "name": "svg-captcha-embed",
   "version": "1.4.0",
   "description": "generate svg captcha in node.js or express.js with embeded font",
-  "main": "dist/index.js",
+  "main": "dist/index.mjs",
   "module": "dist/index.mjs",
+  "require": "dist/index.js",
   "types": "dist/index.d.ts",
   "access": "public",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "lint": "xo",
