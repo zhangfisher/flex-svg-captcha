@@ -66,6 +66,7 @@
     }
   },
   "files": [
+    "index.d.ts",
     "dist",
     "*.md",
     "LICENSE.md"
