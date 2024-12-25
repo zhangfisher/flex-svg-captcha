@@ -1,5 +1,11 @@
 # svg-captcha-embed
 
+## 1.4.3
+
+### Patch Changes
+
+- cb7805b: 添加类型注释
+
 ## 1.4.2
 
 ### Patch Changes
