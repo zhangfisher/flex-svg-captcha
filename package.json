@@ -5,7 +5,8 @@
   "main": "dist/index.mjs",
   "module": "dist/index.mjs",
   "require": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "index.d.ts",
+  "typings": "index.d.ts",
   "access": "public",
   "type": "module",
   "scripts": {
